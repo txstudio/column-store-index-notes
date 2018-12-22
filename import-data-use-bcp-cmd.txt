@@ -1,0 +1,1 @@
+bcp ColumnStoreIndexDb.dbo.SalesOrderDetailFromAdventureWorks2017 IN data.csv -c -S localhost -U sa -P Pa$$w0rd
